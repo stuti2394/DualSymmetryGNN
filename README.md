@@ -14,7 +14,7 @@ This project was awarded **3rd Prize at the Spark 2025 Internship Program**.
 ## Features
 
 * Conversion of polygonal objects into graph representations (nodes = coordinates, edges = structural connections)
-* Implementation of Graph Convolutional Networks (GCN) and Graph Isomorphism Networks (GIN)
+* Implementation of multiple combinations of various GNN layer types
 * Custom node pooling strategies to capture repeating and symmetric patterns
 * Multi-task learning setup:
 
@@ -41,6 +41,21 @@ This project was awarded **3rd Prize at the Spark 2025 Internship Program**.
 * Demonstrated robustness on noisy and irregular polygons
 * Outperformed traditional geometric rule-based methods
 * Achieved accurate classification of symmetry axes and reliable quantification of symmetry degree
+
+*MAE: 0.2322
+*RMSE: 0.7347
+*R2: 0.9081
+*Exact: 0.9107
+*BinAcc: 0.9920
+*BinF1: 0.9130
+*ConfMat: [[479   3]
+           [  1  21]]
+
+<img width="555" height="455" alt="image" src="https://github.com/user-attachments/assets/fa000dff-3144-4f03-bf25-1ea2a2647a7d" />
+
+<img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/fc10a5ee-dba2-4612-b673-cb700ec30f97" />
+
+
 
 ---
 
