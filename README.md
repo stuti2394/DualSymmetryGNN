@@ -42,14 +42,14 @@ This project was awarded **3rd Prize at the Spark 2025 Internship Program**.
 * Outperformed traditional geometric rule-based methods
 * Achieved accurate classification of symmetry axes and reliable quantification of symmetry degree
 
-*MAE: 0.2322
-*RMSE: 0.7347
-*R2: 0.9081
-*Exact: 0.9107
-*BinAcc: 0.9920
-*BinF1: 0.9130
-*ConfMat: [[479   3]
-           [  1  21]]
+* MAE: 0.2322
+* RMSE: 0.7347
+* R2: 0.9081
+* Exact: 0.9107
+* BinAcc: 0.9920
+* BinF1: 0.9130
+* ConfMat: [[479   3]
+*          [  1  21]]
 
 <img width="555" height="455" alt="image" src="https://github.com/user-attachments/assets/fa000dff-3144-4f03-bf25-1ea2a2647a7d" />
 
